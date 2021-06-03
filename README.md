@@ -11,7 +11,7 @@ node-dogecoin is a Dogecoin client for Node.js. It is a fork of the excellent Ka
 
 ## Dependencies
 
-You'll need a running instance of [dogecoind](https://github.com/dogecoin/dogecoin) to connect with. If you're running Debian/Ubuntu, this worked for me: http://www.dogeco.in/wiki/index.php/Dogecoind
+You'll need a running instance of [dogecoind](https://github.com/dogecoin/dogecoin) to connect with. If you're running Debian/Ubuntu.
 
 Then, install the node-dogecoin NPM package.
 
